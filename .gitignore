@@ -1,0 +1,47 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# IDE and editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test and coverage
+.coverage
+.coverage.*
+.pytest_cache/
+.mypy_cache/
+.hypothesis/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Local data files
+*.mat
+
+# Legacy files in repository root (kept locally, not uploaded)
+/agent6.3.py
+/FSFT.ipynb
+/shujuji.ipynb
+/shujuji copy.ipynb
+/shujuji-txt.ipynb
+/area_conv_multi_Z75.m
+/reset_fda_singlepatient_Z75.m

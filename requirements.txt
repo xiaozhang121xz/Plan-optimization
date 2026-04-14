@@ -1,0 +1,12 @@
+﻿torch
+matplotlib
+numpy
+transformers
+peft
+trl
+datasets
+smolagents
+bitsandbytes
+accelerate
+cozepy
+matlabengine
